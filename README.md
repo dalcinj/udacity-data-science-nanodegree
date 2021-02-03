@@ -1,5 +1,14 @@
 # Data Science Nanodegree by Udacity
 
+## Course Structure
+
+### Introduction to Data Science
+### Software Engineering
+### Data Engineering
+### Experimental Design & Recommendations
+### Data Scientist Capstone
+### Extras
+
 ## How to run
 Install Python 3.8+
 Install Pipenv
